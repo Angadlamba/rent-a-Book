@@ -1,0 +1,36 @@
+.navbar-items{
+	margin-top: 10px;
+}
+
+footer img {
+	width: 32px;
+}
+
+.glyphicon-heart {
+	color: rgb(0,0,0);
+	font-size: 32px;
+	color: #c0392b;
+}
+
+.glyphicon-book {
+	font-size: 65px;
+	color: #d35400;
+}
+
+.glyphicon-usd {
+	font-size: 60px;
+	color: #27ae60;
+}
+
+.glyphicon-send {
+	font-size: 60px;
+	color: #2980b9;
+}
+
+.books img{
+	height: 275px;
+}
+
+.aboutus img{
+	height: 288px;
+}
